@@ -1,0 +1,30 @@
+/*Selector de elemento*/
+p {
+  color: blue
+}
+
+/*Selector de clase*/
+.container {
+  color: blue
+}
+
+/*Selector de ID*/
+#nombre {
+  color: blue
+}
+
+/*Selector de atributo*/
+[src="logo.png"] {
+  color: blue
+}
+
+/*Combinacion de descendentes*/
+.cliente p {
+  color: blue
+}
+
+/*Todos los hijos*/
+.cliente>p {
+  color: blue
+}
+
